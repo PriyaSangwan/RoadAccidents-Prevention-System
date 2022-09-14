@@ -1,26 +1,3 @@
-<div id="top"></div>
-<div align="center">
-  <a href="https://github.com/BSH2409/Drowsiness_Detection">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">IMPROVED METHODS OF DETECTION
-AND PREVENTION OF ROAD
-ACCIDENTS BY USING ML
-TECHNIQUES</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/BSH2409/Drowsiness_Detection"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/BSH2409/Drowsiness_Detection">View Demo</a>
-    ·
-    <a href="https://github.com/BSH2409/Drowsiness_Detection/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/BSH2409/Drowsiness_Detection/issues">Request Feature</a>
-  </p>
-</div>
 
 ## About The Project
 
@@ -100,7 +77,7 @@ Install [GitBash](https://git-scm.com/download/win) to clone the repo or just [d
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/BSH2409/Minor_Project.git
+   git clone https://github.com/PriyaSangwan/RoadAccidents-Prevention-System.git
    ```
 2. Install pip packages 
   (Taking assumption that python was installed successfully)
@@ -130,7 +107,7 @@ Install [GitBash](https://git-scm.com/download/win) to clone the repo or just [d
   ```sh
   pip install flask
   ```
-3. Run the [app.py](https://github.com/BSH2409/Drowsiness_Detection/blob/main/app.py) in your IDE
+3. Run the [app.py](https://github.com/PriyaSangwan/Drowsiness_Detection/blob/main/app.py) in your IDE
 
 Voilà, All Set.
 
@@ -232,10 +209,4 @@ Data Set Name- Closed Eyes in The Wild
 
 ![image](https://user-images.githubusercontent.com/79904688/172585808-5f01d429-5b48-4588-859e-8ad82dc6ebfb.png)
 
-
-## Contact
-
-Bhartik Harchand - [Instagram](https://www.instagram.com/_._bsh_._/) - bsh.bhartik@gmail.com
-
-Project Link: [https://github.com/BSH2409/Minor_Project](https://github.com/BSH2409/Drowsiness_Detection)
 
